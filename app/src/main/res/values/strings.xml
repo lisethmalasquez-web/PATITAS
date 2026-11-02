@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AL3 MALASQUEZ-PATITAS</string>
+    <string name="brand">patitas.</string>
+    <string name="brand_tagline">MODA PARA PERROS</string>
+    <string name="greeting">Hola, humano</string>
+    <string name="headline">Encuentra su\npróximo look</string>
+    <string name="search_hint">Buscar prendas, categorías...</string>
+    <string name="search_clear">Borrar búsqueda</string>
+    <string name="favorites">Favoritos</string>
+    <string name="cart">Carrito</string>
+
+    <string name="hero_label">NUEVA COLECCIÓN</string>
+    <string name="hero_title">Abrigos que\nabrazan</string>
+    <string name="hero_subtitle">Suaves, cálidos y listos para cualquier paseo.</string>
+    <string name="hero_cta">Ver abrigos</string>
+
+    <string name="section_default">Recién llegados</string>
+    <string name="section_favorites">Tus favoritos</string>
+    <string name="section_search">Resultados</string>
+    <string name="subtitle_default">Seleccionados para mover la colita</string>
+    <string name="subtitle_favorites">Las prendas que más te gustan</string>
+    <string name="subtitle_count">%1$d prendas para consentir</string>
+    <string name="subtitle_one">1 prenda para consentir</string>
+    <string name="see_all">Ver todo</string>
+
+    <string name="empty_favorites_title">Aún no hay favoritos</string>
+    <string name="empty_favorites_text">Toca el corazón de una prenda para guardarla aquí.</string>
+    <string name="empty_results_title">No encontramos prendas</string>
+    <string name="empty_results_text">Prueba con otra búsqueda o cambia de categoría.</string>
+    <string name="empty_action">Ver todo el catálogo</string>
+
+    <string name="product_detail">Detalle de la prenda</string>
+    <string name="close">Cerrar</string>
+    <string name="size">Talla</string>
+    <string name="color">Color</string>
+    <string name="quantity">Cantidad</string>
+    <string name="add_to_cart">Añadir al carrito</string>
+    <string name="shipping_note">Envío gratis desde $ 150.000 · Compra segura</string>
+    <string name="added_to_cart">Añadido al carrito</string>
+    <string name="view_cart">Ver carrito</string>
+    <string name="add_product">Añadir %1$s al carrito</string>
+    <string name="favorite_product">Guardar %1$s en favoritos</string>
+    <string name="unfavorite_product">Quitar %1$s de favoritos</string>
+    <string name="rating">%1$s</string>
+    <string name="one_left">¡Última unidad!</string>
+
+    <string name="cart_title">Tu carrito</string>
+    <string name="cart_summary">%1$d prendas</string>
+    <string name="cart_summary_one">1 prenda</string>
+    <string name="cart_empty_title">Tu carrito está vacío</string>
+    <string name="cart_empty_text">Explora la colección y encuentra algo especial para tu perro.</string>
+    <string name="cart_explore">Explorar catálogo</string>
+    <string name="total">Total</string>
+    <string name="checkout">Finalizar compra</string>
+    <string name="remove_item">Quitar del carrito</string>
+    <string name="decrease">Quitar una unidad</string>
+    <string name="increase">Añadir una unidad</string>
+    <string name="demo_title">Pedido de demostración</string>
+    <string name="demo_message">Tu selección está lista. Esta versión de Patitas es un catálogo de demostración y no procesa pagos reales.</string>
+    <string name="demo_ok">Entendido</string>
+
+    <string name="footer">Patitas Club · Hecho con amor para perros con estilo</string>
+    <string name="photo_credit">Fotografías de Pexels</string>
+    <string name="category_all">Todos</string>
+    <string name="decrease_quantity">Disminuir cantidad</string>
+    <string name="increase_quantity">Aumentar cantidad</string>
+    <string name="quantity_value">%1$d</string>
+</resources>

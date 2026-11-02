@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cream">#FBF6EF</color>
+    <color name="cream_dark">#F3EADF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="ink">#2C2420</color>
+    <color name="ink_soft">#7A6C63</color>
+    <color name="ink_faint">#B9ADA4</color>
+    <color name="primary">#C75B3F</color>
+    <color name="primary_dark">#A8442C</color>
+    <color name="primary_soft">#F5DED4</color>
+    <color name="sage">#718264</color>
+    <color name="sage_dark">#59694D</color>
+    <color name="sage_soft">#E7EDE1</color>
+    <color name="mustard">#E5B24C</color>
+    <color name="mustard_soft">#FBF0D4</color>
+    <color name="line">#EDE2D6</color>
+    <color name="line_dark">#DCCFC2</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="scrim">#991F1714</color>
+    <color name="snackbar">#332B27</color>
+</resources>
